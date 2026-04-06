@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travel Companion</string>
+    <string name="Select_Category">Select Category</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="Enter_Value">Enter Value</string>
+    <string name="Convert">Convert</string>
+    <string name="Converted_Value">Converted Value</string>
+
+</resources>
