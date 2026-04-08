@@ -5,8 +5,6 @@
 The Travel Companion App is an Android application developed using Java in Android Studio.
 It helps international travellers convert essential values such as currency, fuel and distance units, and temperature.
 
----
-
 ## Features
 
 * Currency conversion (USD, AUD, EUR, JPY, GBP)
@@ -15,15 +13,11 @@ It helps international travellers convert essential values such as currency, fue
 * Distance conversion (Nautical Mile ↔ Kilometers)
 * Temperature conversion (Celsius, Fahrenheit, Kelvin)
 
----
-
 ## Tools Used
 
 * Java
 * Android Studio
 * XML (UI Design)
-
----
 
 ## Conversion Rates Used
 
@@ -46,7 +40,6 @@ It helps international travellers convert essential values such as currency, fue
 * Celsius = (Fahrenheit − 32) / 1.8
 * Kelvin = Celsius + 273.15
 
----
 
 ## How to Run the App
 
@@ -54,7 +47,6 @@ It helps international travellers convert essential values such as currency, fue
 2. Build the project
 3. Run it on an emulator or Android device
 
----
 
 ## Notes
 
